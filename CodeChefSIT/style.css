@@ -185,6 +185,11 @@ body{
 }
 
 
+@media(max-width:450px){
+	.team-section{
+		padding:70px 50px 30px;
+	}
+}
 
 
 
